@@ -112,11 +112,7 @@
 		<version>1.18.30</version> <!-- Use the latest stable version -->
 		<scope>provided</scope>
 		</dependency>
-		<dependency>
-			<groupId>AchaJobsWebSitess</groupId>
-			<artifactId>AchaJobsWebSitess</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
    </dependencies>
 
 <build>
